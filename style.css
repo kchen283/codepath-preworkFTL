@@ -1,0 +1,104 @@
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: center;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #7ea2b7
+;
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  font-size: 50px;
+  padding: 10px;
+  outline-style: solid;
+  outline-width: 5px;
+  outline-color: black;
+  background-color: #343E3D;
+}
+
+button {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:10px;
+}
+
+#button1 {
+    background-image: url("https://cdn.glitch.global/dec26521-b88e-4150-8ee1-adf34667fb04/external-content.duckduckgo.png?v=1647206737476");
+    background-size: cover;
+    background-color: lightgreen;
+    outline-style: ridge;
+}
+
+#button2 {
+    background-image: url("https://cdn.glitch.global/dec26521-b88e-4150-8ee1-adf34667fb04/33-333346_drums-emoji-png-drum-emoji-png.png?v=1647206956510");
+    background-size: cover;
+    outline-style: ridge;
+    
+}
+
+#button3 {
+    background-image: url("https://cdn.glitch.global/dec26521-b88e-4150-8ee1-adf34667fb04/external-content.duckduckgo-2-removebg-preview.png?v=1647207284768");
+    background-size: cover;
+    background-color: pink;
+    outline-style: ridge;
+}
+
+#button4 {
+    background-image: url("https://cdn.glitch.global/dec26521-b88e-4150-8ee1-adf34667fb04/20621-3-piano-clip-art.png?v=1647207099903");
+    background-position: center;
+    background-size: cover;
+    background-color: lightyellow;
+    outline-style: ridge;
+}
+
+#button5 {
+    background-image: url("https://cdn.glitch.global/dec26521-b88e-4150-8ee1-adf34667fb04/external-content.duckduckgo-1.png?v=1647207409365");
+    background-size: cover;
+    background-color: orange;
+    outline-style: ridge;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1:active, #button1.lit{
+    background:green;
+}
+#button2:active, #button2.lit{
+    background:white;
+}
+#button3:active, #button3.lit{
+    background:red;
+}
+#button4:active, #button4.lit{
+    background:yellow;
+}
+#button5:active, #button5.lit{
+    background:yellow;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}

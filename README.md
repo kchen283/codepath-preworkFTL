@@ -62,7 +62,7 @@ If I had a few more hours, I would like to make my code more efficient and neate
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1FVgKKVIPo9ciYTYok_s4pT2KcJJuu2PN/view?usp=sharing)
 
 
 ## License

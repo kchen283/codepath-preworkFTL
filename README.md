@@ -60,10 +60,6 @@ Some questions I have about web development is one, how the computer is able to 
 If I had a few more hours, I would like to make my code more efficient and neater, so there is less repeititiveness and it looks cleaner overall. I would also love to add some other fun animations in the background or for the buttons when they are clicked. I would also want to clean up the overall design of the website and make it look more asthetic, so the heading and title blend in together with the background like they are one cohesive unit instead of different elemements kind of mashed up together. The last feature I want to add is to make the timer look better by having it in a box like the header, and have it more bolded and kind of popping out of the page to make it stand out more. 
 
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/cgv1QeRaLTc)
-
 
 ## License
 
